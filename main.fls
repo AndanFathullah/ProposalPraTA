@@ -712,6 +712,7 @@ INPUT .\konten\1-pendahuluan.tex
 INPUT konten\1-pendahuluan.tex
 INPUT .\konten\1-pendahuluan.tex
 INPUT konten\1-pendahuluan.tex
+INPUT D:\Program files\LaTex\fonts\tfm\public\cm\cmti10.tfm
 INPUT .\konten\2-tinjauan-pustaka.tex
 INPUT konten\2-tinjauan-pustaka.tex
 INPUT .\konten\2-tinjauan-pustaka.tex
@@ -759,12 +760,18 @@ INPUT .\konten\4-lainnya.tex
 INPUT konten\4-lainnya.tex
 INPUT .\konten\4-lainnya.tex
 INPUT konten\4-lainnya.tex
+INPUT .\gambar\HasilSementara.png
+INPUT .\gambar\HasilSementara.png
+INPUT gambar\HasilSementara.png
+INPUT .\gambar\HasilSementara.png
+INPUT .\gambar\HasilSementara.png
+INPUT .\gambar\HasilSementara.png
+INPUT .\gambar\HasilSementara.png
 INPUT .\main.bbl
 INPUT main.bbl
 INPUT .\main.bbl
 INPUT main.bbl
 INPUT D:\Program files\LaTex\fonts\tfm\public\cm\cmtt10.tfm
-INPUT D:\Program files\LaTex\fonts\tfm\public\cm\cmti10.tfm
 INPUT main.aux
 INPUT .\main.out
 INPUT .\main.out

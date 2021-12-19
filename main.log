@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.11.6)  18 DEC 2021 22:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.11.6)  19 DEC 2021 11:48
 entering extended mode
 **"e:/1. MATKUL/SM 7/Pra TA/Proposal Pra TA/ProposalPraTA/main.tex"
 (e:/1. MATKUL/SM 7/Pra TA/Proposal Pra TA/ProposalPraTA/main.tex
@@ -474,71 +474,62 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ) [1
 
 {C:/Users/fathu/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] (konten/1-pendahuluan.tex [2]) (konten/2-tinjauan-pustaka.tex
-<gambar/umur.png, id=115, 587.19376pt x 205.5178pt>
+<gambar/umur.png, id=128, 587.19376pt x 205.5178pt>
 File: gambar/umur.png Graphic file (type png)
 <use gambar/umur.png>
 Package pdftex.def Info: gambar/umur.png  used on input line 27.
 (pdftex.def)             Requested size: 352.31897pt x 123.31163pt.
- [3pdfTeX warning (ext4): destination with the same identifier (name{figure.1}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.39 
-      <./gambar/umur.png (PNG copy)>]
-<gambar/etnik.png, id=125, 428.35031pt x 242.40562pt>
+ [3 <./gambar/umur.png (PNG copy)>]
+<gambar/etnik.png, id=137, 428.35031pt x 242.40562pt>
 File: gambar/etnik.png Graphic file (type png)
 <use gambar/etnik.png>
-Package pdftex.def Info: gambar/etnik.png  used on input line 48.
+Package pdftex.def Info: gambar/etnik.png  used on input line 51.
 (pdftex.def)             Requested size: 257.01216pt x 145.44447pt.
- [4pdfTeX warning (ext4): destination with the same identifier (name{figure.2}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.81 \subsection{Deep Learning}
-                                <./gambar/etnik.png (PNG copy)>]
-<gambar/deeplearning.png, id=137, 428.35031pt x 380.17032pt>
+ [4 <./gambar/etnik.png (PNG copy)>]
+<gambar/deeplearning.png, id=148, 428.35031pt x 380.17032pt>
 File: gambar/deeplearning.png Graphic file (type png)
 <use gambar/deeplearning.png>
-Package pdftex.def Info: gambar/deeplearning.png  used on input line 92.
+Package pdftex.def Info: gambar/deeplearning.png  used on input line 98.
 (pdftex.def)             Requested size: 257.01216pt x 228.10394pt.
- [5pdfTeX warning (ext4): destination with the same identifier (name{figure.3}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.117         \item M
-                     id-Level Image Processing \\ <./gambar/deeplearning.png (PNG copy)>]) (konten/3-metodologi.tex
-<gambar/UTKFace.png, id=152, 864.22874pt x 496.85625pt>
+ [5 <./gambar/deeplearning.png (PNG copy)>]) (konten/3-metodologi.tex
+<gambar/UTKFace.png, id=162, 864.22874pt x 496.85625pt>
 File: gambar/UTKFace.png Graphic file (type png)
 <use gambar/UTKFace.png>
 Package pdftex.def Info: gambar/UTKFace.png  used on input line 18.
 (pdftex.def)             Requested size: 172.84268pt x 99.36948pt.
- [6pdfTeX warning (ext4): destination with the same identifier (name{figure.4}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.35 \end{itemize}
-                   <./gambar/UTKFace.png>]
-<gambar/Metodologi.png, id=163, 551.05875pt x 225.84375pt>
+ [6 <./gambar/UTKFace.png>]
+<gambar/Metodologi.png, id=172, 551.05875pt x 225.84375pt>
 File: gambar/Metodologi.png Graphic file (type png)
 <use gambar/Metodologi.png>
-Package pdftex.def Info: gambar/Metodologi.png  used on input line 43.
-(pdftex.def)             Requested size: 330.63779pt x 135.50728pt.
-) (konten/4-lainnya.tex [7pdfTeX warning (ext4): destination with the same identifier (name{figure.5}) has been already used, duplicate ignored
-<argument> ...shipout:D \box_use:N \l_shipout_box 
-                                                  \__shipout_drop_firstpage_...
-l.42 \end{table}
-                 <./gambar/Metodologi.png (PNG copy)>]) (main.bbl) [8] (main.aux)
+Package pdftex.def Info: gambar/Metodologi.png  used on input line 46.
+(pdftex.def)             Requested size: 440.84758pt x 180.67523pt.
+) (konten/4-lainnya.tex
+<gambar/HasilSementara.png, id=173, 609.02531pt x 163.3603pt>
+File: gambar/HasilSementara.png Graphic file (type png)
+<use gambar/HasilSementara.png>
+Package pdftex.def Info: gambar/HasilSementara.png  used on input line 8.
+(pdftex.def)             Requested size: 487.2209pt x 130.6884pt.
+
+Overfull \hbox (31.97679pt too wide) in paragraph at lines 8--11
+ [][] 
+ []
+
+[7 <./gambar/Metodologi.png (PNG copy)>]) [8 <./gambar/HasilSementara.png (PNG copy)>] (main.bbl) [9] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 74BE625CB6350FBFE124A3A55E1529CB;3389.
+(rerunfilecheck)             Checksum: 22C717C6C5AFE3DABD2ADD5640D9DD5F;3766.
  ) 
 Here is how much of TeX's memory you used:
- 11989 strings out of 478864
- 178547 string characters out of 2858988
- 638990 words of memory out of 3000000
- 29651 multiletter control sequences out of 15000+600000
+ 11997 strings out of 478864
+ 178786 string characters out of 2858988
+ 630530 words of memory out of 3000000
+ 29659 multiletter control sequences out of 15000+600000
  406991 words of font info for 39 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,12n,81p,1360b,470s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 70i,12n,81p,1360b,474s stack positions out of 5000i,500n,10000p,200000b,80000s
 <D:/Program files/LaTex/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/Program files/LaTex/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Program files/LaTex/fonts/type1/public/amsfonts/cm/cmti10.pfb><D:/Program files/LaTex/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on main.pdf (8 pages, 2406534 bytes).
+Output written on main.pdf (9 pages, 2554647 bytes).
 PDF statistics:
- 221 PDF objects out of 1000 (max. 8388607)
- 58 named destinations out of 1000 (max. 500000)
- 210 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 233 PDF objects out of 1000 (max. 8388607)
+ 57 named destinations out of 1000 (max. 500000)
+ 239 words of extra memory for PDF output out of 10000 (max. 10000000)
 
