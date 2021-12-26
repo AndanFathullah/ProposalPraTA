@@ -1,12 +1,12 @@
 # Fdb version 3
-["bibtex main"] 1639889316 "main.aux" "main.bbl" "main" 1639889322
+["bibtex main"] 1639889316 "main.aux" "main.bbl" "main" 1639913892
   "D:/Program files/LaTex/bibtex/bst/natbib/unsrtnat.bst" 1284455456 24550 a41a6405f4de768c43e871d9fbce2bc8 ""
   "dafpus/pustaka.bib" 1639567760 3719 df52758c4731139b6ea13a7fbe1e5365 ""
-  "main.aux" 1639889321 5337 76eacbf64fa1bc43245a5408370506bd "pdflatex"
+  "main.aux" 1639913891 5337 76eacbf64fa1bc43245a5408370506bd "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
-["pdflatex"] 1639889317 "e:/1. MATKUL/SM 7/Pra TA/Proposal Pra TA/ProposalPraTA/main.tex" "main.pdf" "main" 1639889322
+["pdflatex"] 1639913886 "e:/1. MATKUL/SM 7/Pra TA/Proposal Pra TA/ProposalPraTA/main.tex" "main.pdf" "main" 1639913892
   "C:/Users/fathu/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1636162591 9732523 210a0a8a4d77529a2eeb5148694f2214 ""
   "C:/Users/fathu/AppData/Local/MiKTeX/pdftex/config/pdftex.map" 1638773157 82507 a9eef8696c92627b87e9975edea03b2a ""
   "D:/Program files/LaTex/fonts/tfm/public/cm/cmbx10.tfm" 1136765053 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -108,11 +108,11 @@
   "konten/2-tinjauan-pustaka.tex" 1639887486 9743 5a06956eca4bcac9f4cc9e87b7fb3a8c ""
   "konten/3-metodologi.tex" 1639888441 3895 3e9bbd317ea7ad57029ea84045aafefc ""
   "konten/4-lainnya.tex" 1639888632 1931 3caa09778c97c139098936694eadbfee ""
-  "main.aux" 1639889321 5337 76eacbf64fa1bc43245a5408370506bd "pdflatex"
+  "main.aux" 1639913891 5337 76eacbf64fa1bc43245a5408370506bd "pdflatex"
   "main.bbl" 1639889316 3204 1ef3e7f8584265de72326d4562e73caa "bibtex main"
-  "main.out" 1639889321 3766 22c717c6c5afe3dabd2add5640d9dd5f "pdflatex"
+  "main.out" 1639913891 3766 22c717c6c5afe3dabd2add5640d9dd5f "pdflatex"
   "main.tex" 1639889309 2461 223f8874e4ccd683828a52a09cca9483 ""
-  "pengesahan/pengesahan.tex" 1639839009 3714 9c89162b5cdb0ef8b04c639888391ee5 ""
+  "pengesahan/pengesahan.tex" 1639913883 3710 3983be75c92629ce26c00898623dad97 ""
   (generated)
   "main.aux"
   "main.log"
